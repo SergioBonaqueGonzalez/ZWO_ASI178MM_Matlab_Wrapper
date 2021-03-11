@@ -1,7 +1,7 @@
 # ZWO_ASI178MM_Matlab_Wrapper
 Created by Sergio Bonaque-Gonzalez. Optical Engineer. August 2019
 
-sergiob@wooptix.com
+sergio.bonaque.gonzalez@gmail.com
 
 
 This program is matlab's wrapper for some functions of the ZWO cameras library.
